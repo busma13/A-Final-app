@@ -1,3 +1,12 @@
+A Final App is a full-stack web application designed to track employees, teams of employees,
+and projects across multiple companies. It was created as part of the [FastTrack](https://www.allaboutfasttrack.com/) full-stack software development training program by [Cook Systems](https://cooksys.com/).
+
+The front-end was built by [Jiwon Shim](https://github.com/jshim0209), [Dylan Nguyen
+ ](https://github.com/Mei-ziu), [Shilpa Nair](https://github.com/lafleurss), and [Peter Luitjens](https://github.com/busma13) using React, JSX, and Recoil.  The back-end was built by [Jasmine Daniels](https://github.com/JasmineDaniels), [Michael Hommrich](https://github.com/mhommr), [Ichinnorov Tuguldur](https://github.com/IchinnorovTuguldur), and [Andrew Valesquez](https://github.com/theandrewjames) using Java, Spring Boot, JPA, and PostgreSQL.
+
+---
+The following are the assessment instructions:
+
 # Assessment 3
 
 # Overview
