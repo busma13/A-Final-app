@@ -79,7 +79,7 @@ public class TeamServiceImpl implements TeamService {
 		return teamMapper.entityToDto(teamRepository.saveAndFlush(team));
 	}
 
-	@Override
+	
 	public TeamDto getTeamById(Long teamId) {
 		Optional<Team> foundTeam = teamRepository.findById(teamId);
 		if (foundTeam.isEmpty()) {
